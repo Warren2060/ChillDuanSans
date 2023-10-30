@@ -1,5 +1,6 @@
 # ChillDuanSans
 ## 字体样本
+寒蝉端黑体是思源黑体的宽体和窄体版本，重新插值生成，没做其他任何改变，为了方便切换，同时也生成了原字体插值。共25件。
 ![ChillDuanSans_1](https://github.com/Warren2060/ChillDuanSans/assets/87366329/8b5ed5ee-63d2-4cb5-8965-da5087f62e8a)
 ![ChillDuanSans_2](https://github.com/Warren2060/ChillDuanSans/assets/87366329/c224608c-36a4-4c72-9512-0c2f84b71a1f)
 ![ChillDuanSans_3](https://github.com/Warren2060/ChillDuanSans/assets/87366329/66496475-2dd1-4bfa-8d3b-290065296ee0)
